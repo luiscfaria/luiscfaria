@@ -7,9 +7,6 @@
 <a href="mailto:luiscarlossfaria@gmail.com"><img src="https://img.shields.io/badge/-luiscarlossfaria@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
-## Github Analytics
-
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=luiscfaria&show_icons=true&theme=dracula&count_private=true)
 
 
 ## Tech Stack
